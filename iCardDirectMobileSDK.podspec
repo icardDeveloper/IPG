@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
     s.license           = { :type => 'MIT', :file => 'LICENSE' }
 
     s.platform          = :ios
-    s.source            = { :http => 'https://icard.com/iCardDirectSdk/EasyCredit/1.0.5/iCardDirectMobileSDK.zip' }
+    s.source            = { :http => 'https://github.com/icardDeveloper/IPG/releases/download/1.0.0/iCardDirectMobileSDK.zip' }
 
 
     s.dependency 'JGProgressHUD', '= 2.2'
